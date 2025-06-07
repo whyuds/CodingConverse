@@ -1,4 +1,6 @@
-# CodingConverse MCP Server
+# CodingConverse
+
+[English](README_EN.md) | 中文
 
 一个为AI代码编辑器提供用户对话能力的MCP (Model Context Protocol) 服务。当AI编辑器需要与用户交互时，可以通过此服务显示对话框获取用户输入。
 
